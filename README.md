@@ -1,6 +1,6 @@
-# Mite
+# Mite - "Look" (見て)
 
-Mite is a command-line file reader that allows you to search for a specific word within a file and prints the line containing that word.
+Mite is a command-line file reader that allows you to search for a specific word within a file and prints the line containing that word. Interestingly, "Mite" is a Japanese word meaning "Look" (見て).
 
 ## Features
 
