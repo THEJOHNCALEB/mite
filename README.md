@@ -9,11 +9,19 @@ Mite is a command-line file reader that allows you to search for a specific word
 
 ## Installation
 
-To install Mite, clone the repository and build the project using Cargo:
+To install Mite, you can use Cargo:
 
 ```sh
-cargo install mite@0.1.0
+cargo install mite
 ```
+
+Or you can clone the repository and build the project using Cargo:
+
+```sh
+cargo install --path .
+```
+
+You can also find Mite on [crates.io](https://crates.io/crates/mite).
 
 ## Usage
 
