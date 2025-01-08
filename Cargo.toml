@@ -7,6 +7,7 @@ description = "A command-line tool for searching words in files."
 repository = "https://github.com/thejohncaleb/mite"
 keywords = ["CLI", "search", "file"]
 categories = ["command-line-utilities"]
+license = "MIT"
 readme = "README.md"
 
 [dependencies]
