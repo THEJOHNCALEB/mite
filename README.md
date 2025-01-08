@@ -12,7 +12,7 @@ Mite is a command-line file reader that allows you to search for a specific word
 To install Mite, clone the repository and build the project using Cargo:
 
 ```sh
-git clone https://github.com/yourusername/mite.git
+git clone https://github.com/thejohncaleb/mite.git
 cd mite
 cargo build --release
 ```
